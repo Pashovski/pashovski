@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [Feeback UI](https://github.com/Pashovski/react_project_1)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **pauleugenedavidson@gmail.com**
 
